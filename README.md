@@ -61,7 +61,6 @@ After finalizing the desktop layout, I implemented a responsive design approach.
 
 During this project, I deepened my understanding of responsive design, particularly how to effectively use media queries to adapt layouts for smaller screens. Additionally, I refined my ability to utilize Figma for precise design measurements, which was instrumental in maintaining consistency across different devices.
 
-To see how you can add code snippets, see below:
 
 ```html
 <body>
