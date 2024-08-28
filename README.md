@@ -16,7 +16,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -37,11 +36,11 @@ Users should be able to:
 
 The initial step in the development process involved structuring the HTML code to include all necessary elements. I utilized a <section> element inside the <body> to group the main content. Within this section, I added the following elements:
 
--An <img> tag to display the profile picture.
--An <h1> tag to showcase the profile name.
--An <h2> tag for the location (address).
--A <p> tag for the profile description.
--A <ul> (unordered list) containing five <li> (list items), each with an anchor <a> tag to link to the required social profiles.
+-An img tag to display the profile picture.
+-An h1 tag to showcase the profile name.
+-An h2 tag for the location (address).
+-A p tag for the profile description.
+-A ul (unordered list) containing five li (list items), each with an anchor a tag to link to the required social profiles.
 
 2. Design Implementation with Figma
 
